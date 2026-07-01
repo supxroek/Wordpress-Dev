@@ -41,6 +41,9 @@ wp-config.php
 # database
 wp-database/
 
+# scripts
+github.script.ps1
+
 # All plugins
 #
 # Note: If you wish to whitelist plugins,
