@@ -38,6 +38,9 @@ wp-config.php
 # environment
 .env.keys
 
+# database
+wp-database/
+
 # All plugins
 #
 # Note: If you wish to whitelist plugins,

@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){const t=document.querySelectorAll(".wpte-checkout__tooltip");t.length&&t.forEach((t=>{let e={};try{e=JSON.parse(t.dataset?.options||"{}")}catch(t){console.error("Error loading tippy:",t.message)}tippy(t,{content:t=>t.dataset.content,...e})}))}));
